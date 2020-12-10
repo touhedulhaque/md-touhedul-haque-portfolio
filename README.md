@@ -1,5 +1,5 @@
 # Haque's Portfolio (My Personal Portfolio)
-#### Live-Link: https://haque-portfolio.netlify.app/
+#### Live-Link: www.touhedulhaque.com
 
 `Back to` [Resume of Haque](https://drive.google.com/file/d/1OPYsxd5woKjk59KSaLfclYRCAxCbx66D/view).
 
